@@ -35,6 +35,7 @@ This is a week report of my time using.
 - Added explainations of the charts at the bottom right corner.
 
 <img width="1389" alt="截屏2025-01-27 15 38 12" src="https://github.com/user-attachments/assets/32d81735-baee-4fe7-ae8f-71d9763eada9" />
+
 - Made a flashing chart to represent the overall time-spend.
 - * Small squres - hours spent on each section
   * Size different - the amount of time
