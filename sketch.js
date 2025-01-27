@@ -20,7 +20,7 @@ function setup(){
   frameRate(1);
 }
 
-function DayLables(){
+function dayLables(){
   for(x = 0; x < table.getRowCount(); x++){
     let row = table.getRow(x);
     let days = row.get("Days");
@@ -136,7 +136,7 @@ function daysOtherTime1(){
 
 function draw() {
   background(220);
-  DayLables();
+  dayLables();
   daysStudyTime();
   daysStudyTime1();
   daysSleepTime();
