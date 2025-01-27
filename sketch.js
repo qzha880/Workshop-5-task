@@ -20,6 +20,10 @@ function setup(){
   frameRate(1);
 }
 
+function windowResized(){
+  resizeCanvas(windowWidth,windowHeight);
+}
+
 function dayLables(){
   for(x = 0; x < table.getRowCount(); x++){
     let row = table.getRow(x);
